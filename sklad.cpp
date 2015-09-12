@@ -1,8 +1,10 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 int main () {
-  long long n, k, m;
-  cin >> n >> k >> m;
-  cout << n - (k + (m - (k / 2))) << "\n";
-  return 0;
+    int n, m;
+    double k, K;
+    cin >> n >> k >> m;
+    K = k / 2;
+    cout << n - K - m << "\n";
+    return 0;
 }
