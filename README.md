@@ -1,2 +1,2 @@
 # first-change
-These are my first-year programs that I have made during competitions.
+These are my programs that I have made during competitions.
